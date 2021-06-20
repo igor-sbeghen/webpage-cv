@@ -9,11 +9,6 @@ If you liked the template and would like to use an equal, This template is a one
 
 Go to fork: [http://YourGithubProfile.github.io/resumetemplate](http://izzydoesizzy.github.io/resumetemplate) 
 
-## [ClearCareer](http://startbootstrap.com/) 
-
-This template is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Izzy Piyale-Sheard](http://izzydoesizzy.com/).
-
-
 ## Attribution
 
 [IconMoon](https://icomoon.io/)  
@@ -24,5 +19,3 @@ This resume template uses the [Bootstrap](http://getbootstrap.com/) framework cr
 Bruno Rodriguez - Timeline  
 - [Github: https://github.com/itbruno](https://github.com/itbruno)
 - [Twitter: https://twitter.com/_brunoweb](https://twitter.com/_brunoweb)
-
-Train Tracks Photo https://unsplash.com/@reddangelo16
